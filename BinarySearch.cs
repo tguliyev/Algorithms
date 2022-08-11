@@ -1,5 +1,5 @@
 namespace Algorithms;
-public class BinarySearch {
+public partial class Program {
     public static int binarySearch(int[] list, int item) {
         int low = 0;
         int hight = list.Length - 1;
